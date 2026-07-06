@@ -1,0 +1,33 @@
+{
+  "features": [
+    "lon",
+    "lat",
+    "sog",
+    "cog",
+    "draught",
+    "hour_of_day",
+    "month",
+    "pure_hours_elapsed",
+    "dist_traveled_km",
+    "avg_speed_overall",
+    "route_remaining_km",
+    "cross_track_km",
+    "avg_route_speed_knots",
+    "avg_sog_all",
+    "avg_sog_2h",
+    "avg_sog_4h",
+    "start_lon",
+    "start_lat",
+    "port_distance_to_gate",
+    "ship_length",
+    "ship_width",
+    "ship_type_全集装箱船",
+    "ship_type_多用途船",
+    "ship_type_驳船"
+  ],
+  "ship_type_features": [
+    "ship_type_全集装箱船",
+    "ship_type_多用途船",
+    "ship_type_驳船"
+  ]
+}
