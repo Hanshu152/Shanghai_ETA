@@ -31,6 +31,7 @@ Thumbs.db
 # Build files
 build/
 dist/
+node_modules/
 *.egg-info/
 
 # Test/cache
